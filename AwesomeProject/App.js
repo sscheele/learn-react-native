@@ -69,9 +69,4 @@ export default class BasicComp extends Component {
 	}
 }
 
-
-
-
-
-
 AppRegistry.registerComponent('AwesomeProject', () => BasicComp);
